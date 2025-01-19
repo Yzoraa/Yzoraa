@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1C65A8&height=300&section=header&text=Yzora%20Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EDC6CB&height=300&section=header&text=Yzora%20Github&fontSize=90" />
 
 <div align=center>
 	<h3>✨ Languages ✨</h3>

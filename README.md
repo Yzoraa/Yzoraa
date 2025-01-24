@@ -11,7 +11,7 @@
 </div><br>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YZingZing&layout=compact">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yzoraa&layout=compact">
 </div><br>
 
 <p><b>🧑‍💻 USER COUNT </b></p>

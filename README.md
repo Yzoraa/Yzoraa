@@ -14,5 +14,5 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yzoraa&layout=compact">
 </div><br>
 
-<p><b>🧑‍💻 USER COUNT </b></p>
+<p><b>🧑‍💻 COUNT </b></p>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23C8C8C8&title_bg=%234765BA&icon=pinboard.svg&icon_color=%23F6F5F5&title=hits&edge_flat=true"/></a>

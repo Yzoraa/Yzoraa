@@ -22,6 +22,7 @@
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+	<img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"/>
 </div><br><br>
 
 <div align="center">
